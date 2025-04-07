@@ -27,6 +27,8 @@ This project requires **Python 3**.
 ```bash
 python3 main.py <path_to_book>
 ```
+## 🗂️ Project Structure
+```
 .
 ├── books/
 │   ├── frankenstein.txt
@@ -35,3 +37,4 @@ python3 main.py <path_to_book>
 ├── main.py
 ├── stats.py
 └── README.md
+```
